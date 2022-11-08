@@ -1,0 +1,7 @@
+name=Collections
+author=Manuel Reiner
+description=Get friends together, select a category, call out your answer and pass the playdate.
+bundleID=com.monomythos.collections
+version=1.0
+buildNumber=101
+imagePath=Images/card.png
